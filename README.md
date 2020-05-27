@@ -4,7 +4,6 @@ Designing materials with variable properties such as stiffness and texture upon 
 <br />
 
 # Resources
-<br />
 ## Material Science
 1. A good introduction to thermoplasticity: https://www.sciencedirect.com/science/article/pii/S2214785319343858. We may explore this area as it enables us to control stiffness through electric means. Let's read more.
 2. It is good to read more about some of the recent publications in soft haptics, such as these papers https://ieeexplore.ieee.org/document/7523806 and https://www.frontiersin.org/research-topics/5712/innovative-haptic-interfaces-emerging-from-soft-robotics or these groups: http://www.jaist.ac.jp/ms/labs/vanho/index-e.html and https://helge-wurdemann.com/softhapticslab/  
