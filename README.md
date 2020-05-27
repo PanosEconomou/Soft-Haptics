@@ -3,8 +3,8 @@ Designing materials with variable properties such as stiffness and texture upon 
 
 
 # Task List
-[ ] Assemble More Resources on Soft Haptics Theory and Appplication
-[ ] Write a survey paper on the accumulated resources
+- [ ] Assemble More Resources on Soft Haptics Theory and Appplication
+- [ ] Write a survey paper on the accumulated resources
 
 # Resources
 ## Material Science
