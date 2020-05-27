@@ -1,7 +1,10 @@
 # Haptic-Clay
 Designing materials with variable properties such as stiffness and texture upon external stimulation
 
-<br />
+
+# Task List
+[ ] Assemble More Resources on Soft Haptics Theory and Appplication
+[ ] Write a survey paper on the accumulated resources
 
 # Resources
 ## Material Science
