@@ -14,6 +14,18 @@ Designing materials with variable properties such as stiffness and texture upon 
 4. A good textbook: https://www.cambridge.org/ae/academic/subjects/engineering/materials-science/introduction-computational-materials-science-fundamentals-applications?format=HB
 5. A very recent publication regarding a soft haptic actuator from Israr https://ieeexplore.ieee.org/document/8725948
 
+### Electroactive Materials
+6. Changing the regidity of a material through aplied potential difference https://iopscience.iop.org/article/10.1088/0964-1726/24/6/065001/meta
+7. Composite material that melts through joule heating when current flows through, chaning stiffness https://iopscience.iop.org/article/10.1088/0964-1726/22/8/085005/meta
+8. Electroactive Polymers Resource Accumulation https://www.sciencedirect.com/topics/chemistry/electroactive-polymer
+9. 
+
+### Magnetostriction
+
+### Smart Inorganic Polymers
+
+### Photomechanical Materials
+
 ## Simulation Tools
 1. ANSYS
 2. Comsol
