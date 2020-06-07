@@ -7,7 +7,7 @@ Designing materials with variable properties such as stiffness and texture upon 
 - [ ] Write a survey paper on the accumulated resources
 
 # Resources
-## Material Science
+### Material Science
 1. A good introduction to thermoplasticity: https://www.sciencedirect.com/science/article/pii/S2214785319343858. We may explore this area as it enables us to control stiffness through electric means. Let's read more.
 2. It is good to read more about some of the recent publications in soft haptics, such as these papers https://ieeexplore.ieee.org/document/7523806 and https://www.frontiersin.org/research-topics/5712/innovative-haptic-interfaces-emerging-from-soft-robotics or these groups: http://www.jaist.ac.jp/ms/labs/vanho/index-e.html and https://helge-wurdemann.com/softhapticslab/  
 3. A general introduction to computational materials science is also great to read about. There are plenty of resources about it, such as: https://avs.scitation.org/doi/10.1116/1.4813689.
@@ -32,6 +32,10 @@ Designing materials with variable properties such as stiffness and texture upon 
 16. Spontaneous deformation of flexible ferromagnetic ribbons induced by Dzyaloshinskii-Moriya interaction: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.140407
 17. A biomimetic tactile sensing system based on polyvinylidene fluoride film: https://aip.scitation.org/doi/full/10.1063/1.5030545
 18. Piezoelectric graphene field effect transistor pressure sensors for tactile sensing: https://aip.scitation.org/doi/full/10.1063/1.5030545
+
+### Soft Haptics
+19. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
+20. 
 
 
 ### Photomechanical Materials
