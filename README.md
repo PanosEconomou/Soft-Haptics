@@ -8,8 +8,8 @@ Designing materials with variable properties such as stiffness and texture upon 
 
 # Survey Paper
 The paper source can be found in overleaf through the following links:
-(view): https://www.overleaf.com/read/bffybxfmchvw
-(edit): https://www.overleaf.com/9726541416qxysmjcyfqyq
+- (view): https://www.overleaf.com/read/bffybxfmchvw
+- (edit): https://www.overleaf.com/9726541416qxysmjcyfqyq
 
 # Resources
 ### Material Science
