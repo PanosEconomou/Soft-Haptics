@@ -21,26 +21,34 @@ Designing materials with variable properties such as stiffness and texture upon 
 9. Electroactive Polymers as Actuators Review: https://link.springer.com/article/10.1007/s42558-019-0005-1
 10. A lab working on Electroactive Materials Simulation and Development: http://www.physics.montana.edu/eam/
 11. Another one: http://materiability.com/portfolio/electroactive-polymers/
+12. Electrostriction Theory: https://www.scopus.com/record/display.uri?eid=2-s2.0-0031647457&origin=reflist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&recordRank=
 
 ### Magnetostriction
-12. Vibration control with Magnetostrictive Actuators: https://www.sciencedirect.com/science/article/pii/S0924424710004772#fig0015
-13. Review of Modeling and Control of Magnetostrictive Actuators: https://www.mdpi.com/2076-0825/8/2/45/htm
+13. Vibration control with Magnetostrictive Actuators: https://www.sciencedirect.com/science/article/pii/S0924424710004772#fig0015
+14. Review of Modeling and Control of Magnetostrictive Actuators: https://www.mdpi.com/2076-0825/8/2/45/htm
 
 ### Smart Inorganic Polymers
-14. Design and Fabrication of Twisted Monolithic Dielectric Elastomer Actuator: https://link.springer.com/content/pdf/10.1007/s12555-016-0466-z.pdf
-15. A review on SIPs used as soft actuators: https://link.springer.com/content/pdf/10.1007/s12541-019-00255-1.pdf
-16. Spontaneous deformation of flexible ferromagnetic ribbons induced by Dzyaloshinskii-Moriya interaction: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.140407
-17. A biomimetic tactile sensing system based on polyvinylidene fluoride film: https://aip.scitation.org/doi/full/10.1063/1.5030545
-18. Piezoelectric graphene field effect transistor pressure sensors for tactile sensing: https://aip.scitation.org/doi/full/10.1063/1.5030545
+15. Design and Fabrication of Twisted Monolithic Dielectric Elastomer Actuator: https://link.springer.com/content/pdf/10.1007/s12555-016-0466-z.pdf
+16. A review on SIPs used as soft actuators: https://link.springer.com/content/pdf/10.1007/s12541-019-00255-1.pdf
+17. Spontaneous deformation of flexible ferromagnetic ribbons induced by Dzyaloshinskii-Moriya interaction: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.140407
+18. A biomimetic tactile sensing system based on polyvinylidene fluoride film: https://aip.scitation.org/doi/full/10.1063/1.5030545
+19. Piezoelectric graphene field effect transistor pressure sensors for tactile sensing: https://aip.scitation.org/doi/full/10.1063/1.5030545
 
 ### Soft Haptics
-19. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
-20. Bio‐inspired Design and Additive Manufacturing of Soft Materials, Machines, Robots, and Haptic Interfaces: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201813402
-21. Biological Materials https://onlinelibrary.wiley.com/doi/10.1002/anie.200603922
-22. Application: Telesurgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-85018306129&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=0&citeCnt=21&searchTerm=
-23. Application: Wrist Mounted Feedback Device: https://www.scopus.com/record/display.uri?eid=2-s2.0-85050163928&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=1&citeCnt=9&searchTerm=
-24. Application: Multifingered Palpation for Open Surgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-84893575808&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=2&citeCnt=9&searchTerm=
-25. 
+20. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
+21. Bio‐inspired Design and Additive Manufacturing of Soft Materials, Machines, Robots, and Haptic Interfaces: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201813402
+22. Biological Materials https://onlinelibrary.wiley.com/doi/10.1002/anie.200603922
+23. Application: Telesurgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-85018306129&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=0&citeCnt=21&searchTerm=
+24. Application: Wrist Mounted Feedback Device: https://www.scopus.com/record/display.uri?eid=2-s2.0-85050163928&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=1&citeCnt=9&searchTerm=
+25. Application: Multifingered Palpation for Open Surgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-84893575808&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=2&citeCnt=9&searchTerm=
+26. Application: Shape memory Alloy Wires: https://www.scopus.com/record/display.uri?eid=2-s2.0-85056845945&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=4&citeCnt=4&searchTerm=
+27. Application: Wide range pressure activated motion: https://www.pnas.org/content/pnas/108/51/20400.full.pdf
+28. Application: Dynamic Textures: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201801603
+29. Dielectric Elastomer Actuators: https://link.springer.com/article/10.1007/s00339-012-7402-8
+30. Review: Small, fast, and tough: Shrinking down integrated elastomer transducers: https://www.scopus.com/record/display.uri?eid=2-s2.0-84989172278&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=1&citeCnt=68&searchTerm=
+31. Application: Bio-Inspired All-Organic Soft Actuator Based on a π-π Stacked 3D Ionic Network Membrane and Ultra-Fast Solution Processing: https://www.scopus.com/record/display.uri?eid=2-s2.0-84941144700&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=2&citeCnt=41&searchTerm=
+32. Application: More dielectric Elastomer Actuators (DEAs): https://www.scopus.com/record/display.uri?eid=2-s2.0-85020457119&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=3&citeCnt=36&searchTerm=
+33. 
 
 ### Photomechanical Materials
 
