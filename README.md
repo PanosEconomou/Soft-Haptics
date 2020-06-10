@@ -36,7 +36,11 @@ Designing materials with variable properties such as stiffness and texture upon 
 ### Soft Haptics
 19. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
 20. Bio‐inspired Design and Additive Manufacturing of Soft Materials, Machines, Robots, and Haptic Interfaces: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201813402
-
+21. Biological Materials https://onlinelibrary.wiley.com/doi/10.1002/anie.200603922
+22. Application: Telesurgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-85018306129&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=0&citeCnt=21&searchTerm=
+23. Application: Wrist Mounted Feedback Device: https://www.scopus.com/record/display.uri?eid=2-s2.0-85050163928&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=1&citeCnt=9&searchTerm=
+24. Application: Multifingered Palpation for Open Surgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-84893575808&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=2&citeCnt=9&searchTerm=
+25. 
 
 ### Photomechanical Materials
 
