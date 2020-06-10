@@ -6,6 +6,11 @@ Designing materials with variable properties such as stiffness and texture upon 
 - [X] Assemble More Resources on Soft Haptics Theory and Appplication
 - [ ] Write a survey paper on the accumulated resources
 
+# Survey Paper
+The paper source can be found in overleaf through the following links:
+(view): https://www.overleaf.com/read/bffybxfmchvw
+(edit): https://www.overleaf.com/9726541416qxysmjcyfqyq
+
 # Resources
 ### Material Science
 1. A good introduction to thermoplasticity: https://www.sciencedirect.com/science/article/pii/S2214785319343858. We may explore this area as it enables us to control stiffness through electric means. Let's read more.
