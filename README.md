@@ -35,7 +35,7 @@ Designing materials with variable properties such as stiffness and texture upon 
 
 ### Soft Haptics
 19. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
-20. 
+20. Bio‐inspired Design and Additive Manufacturing of Soft Materials, Machines, Robots, and Haptic Interfaces: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201813402
 
 
 ### Photomechanical Materials
