@@ -48,7 +48,11 @@ Designing materials with variable properties such as stiffness and texture upon 
 30. Review: Small, fast, and tough: Shrinking down integrated elastomer transducers: https://www.scopus.com/record/display.uri?eid=2-s2.0-84989172278&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=1&citeCnt=68&searchTerm=
 31. Application: Bio-Inspired All-Organic Soft Actuator Based on a π-π Stacked 3D Ionic Network Membrane and Ultra-Fast Solution Processing: https://www.scopus.com/record/display.uri?eid=2-s2.0-84941144700&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=2&citeCnt=41&searchTerm=
 32. Application: More dielectric Elastomer Actuators (DEAs): https://www.scopus.com/record/display.uri?eid=2-s2.0-85020457119&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=3&citeCnt=36&searchTerm=
-33. 
+33. Application: Soft Skin Challenges Review: https://ieeexplore.ieee.org/document/8858052
+34. Application: More Soft Skin: https://dl.acm.org/doi/10.1145/3084822.3084836
+35. Application: Themal-mechanical system for remote surgeon stimulation: https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=7580b7a6efb7423dad1492644924d023&DOCINDEX=12&ignore_docid=cpx_6e3d60135a650a68fM79ff2061377553&database=8388611&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes
+36. Application: Microdrug delivery: https://ieeexplore.ieee.org/document/7820145
+37. 
 
 ### Photomechanical Materials
 
