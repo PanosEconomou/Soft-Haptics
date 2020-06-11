@@ -45,36 +45,39 @@ The paper source can be found in overleaf through the following links:
 26. Small-scale soft-bodied robot with multimodal locomotion: https://www.nature.com/articles/nature25443
 27. A Magnetically Controlled Soft Microrobot Steering a Guidewire in a Three-Dimensional Phantom Vascular Network: https://www.liebertpub.com/doi/10.1089/soro.2018.0019
 28. Magnetically actuated miniature walking soft robot based on chained magnetic microparticles-embedded elastomer: https://www.sciencedirect.com/science/article/pii/S0924424719310908
+29. Magnetic micro-actuators and systems (MAGMAS): https://ieeexplore.ieee.org/document/1252843?arnumber=1252843
+30. Design and application of magnetostrictive materials: https://www.sciencedirect.com/science/article/pii/S0261306907000027
+31. Magnetostrictive properties of body-centered cubic Fe-Ga and Fe-Ga-Al alloys: https://ieeexplore.ieee.org/document/908752
 
 ### Smart Inorganic Polymers
-29. Design and Fabrication of Twisted Monolithic Dielectric Elastomer Actuator: https://link.springer.com/content/pdf/10.1007/s12555-016-0466-z.pdf
-30. A review on SIPs used as soft actuators: https://link.springer.com/content/pdf/10.1007/s12541-019-00255-1.pdf
-31. Spontaneous deformation of flexible ferromagnetic ribbons induced by Dzyaloshinskii-Moriya interaction: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.140407
-32. A biomimetic tactile sensing system based on polyvinylidene fluoride film: https://aip.scitation.org/doi/full/10.1063/1.5030545
-33. Piezoelectric graphene field effect transistor pressure sensors for tactile sensing: https://aip.scitation.org/doi/full/10.1063/1.5030545
+32. Design and Fabrication of Twisted Monolithic Dielectric Elastomer Actuator: https://link.springer.com/content/pdf/10.1007/s12555-016-0466-z.pdf
+33. A review on SIPs used as soft actuators: https://link.springer.com/content/pdf/10.1007/s12541-019-00255-1.pdf
+34. Spontaneous deformation of flexible ferromagnetic ribbons induced by Dzyaloshinskii-Moriya interaction: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.140407
+35. A biomimetic tactile sensing system based on polyvinylidene fluoride film: https://aip.scitation.org/doi/full/10.1063/1.5030545
+36. Piezoelectric graphene field effect transistor pressure sensors for tactile sensing: https://aip.scitation.org/doi/full/10.1063/1.5030545
 
 ### Soft Haptics
-34. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
-35. Bio‐inspired Design and Additive Manufacturing of Soft Materials, Machines, Robots, and Haptic Interfaces: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201813402
-36. Biological Materials https://onlinelibrary.wiley.com/doi/10.1002/anie.200603922
-37. Application: Telesurgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-85018306129&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=0&citeCnt=21&searchTerm=
-38. Application: Wrist Mounted Feedback Device: https://www.scopus.com/record/display.uri?eid=2-s2.0-85050163928&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=1&citeCnt=9&searchTerm=
-39. Application: Multifingered Palpation for Open Surgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-84893575808&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=2&citeCnt=9&searchTerm=
-40. Application: Shape memory Alloy Wires: https://www.scopus.com/record/display.uri?eid=2-s2.0-85056845945&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=4&citeCnt=4&searchTerm=
-41. Application: Wide range pressure activated motion: https://www.pnas.org/content/pnas/108/51/20400.full.pdf
-42. Application: Dynamic Textures: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201801603
-43. Dielectric Elastomer Actuators: https://link.springer.com/article/10.1007/s00339-012-7402-8
-44. Review: Small, fast, and tough: Shrinking down integrated elastomer transducers: https://www.scopus.com/record/display.uri?eid=2-s2.0-84989172278&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=1&citeCnt=68&searchTerm=
-45. Application: Bio-Inspired All-Organic Soft Actuator Based on a π-π Stacked 3D Ionic Network Membrane and Ultra-Fast Solution Processing: https://www.scopus.com/record/display.uri?eid=2-s2.0-84941144700&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=2&citeCnt=41&searchTerm=
+37. Incidental Haptic Sensations Influence Social Judgments and Decisions: https://science.sciencemag.org/content/328/5986/1712/tab-pdf
+38. Bio‐inspired Design and Additive Manufacturing of Soft Materials, Machines, Robots, and Haptic Interfaces: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201813402
+39. Biological Materials https://onlinelibrary.wiley.com/doi/10.1002/anie.200603922
+40. Application: Telesurgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-85018306129&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=0&citeCnt=21&searchTerm=
+41. Application: Wrist Mounted Feedback Device: https://www.scopus.com/record/display.uri?eid=2-s2.0-85050163928&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=1&citeCnt=9&searchTerm=
+42. Application: Multifingered Palpation for Open Surgery: https://www.scopus.com/record/display.uri?eid=2-s2.0-84893575808&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=2&citeCnt=9&searchTerm=
+43. Application: Shape memory Alloy Wires: https://www.scopus.com/record/display.uri?eid=2-s2.0-85056845945&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+pressure+actuat*&st2=&sid=7fea23c9f036326448b5ccfb2251a69a&sot=b&sdt=b&sl=44&s=TITLE-ABS-KEY%28soft+haptics+pressure+actuat*%29&relpos=4&citeCnt=4&searchTerm=
+44. Application: Wide range pressure activated motion: https://www.pnas.org/content/pnas/108/51/20400.full.pdf
+45. Application: Dynamic Textures: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201801603
+46. Dielectric Elastomer Actuators: https://link.springer.com/article/10.1007/s00339-012-7402-8
+47. Review: Small, fast, and tough: Shrinking down integrated elastomer transducers: https://www.scopus.com/record/display.uri?eid=2-s2.0-84989172278&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=1&citeCnt=68&searchTerm=
+48. Application: Bio-Inspired All-Organic Soft Actuator Based on a π-π Stacked 3D Ionic Network Membrane and Ultra-Fast Solution Processing: https://www.scopus.com/record/display.uri?eid=2-s2.0-84941144700&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=2&citeCnt=41&searchTerm=
 46. Application: More dielectric Elastomer Actuators (DEAs): https://www.scopus.com/record/display.uri?eid=2-s2.0-85020457119&origin=resultslist&sort=cp-f&src=s&st1=soft+haptics+electroact*&st2=&sid=75aae6465a8d331f4e842cbe104949ca&sot=b&sdt=b&sl=39&s=TITLE-ABS-KEY%28soft+haptics+electroact*%29&relpos=3&citeCnt=36&searchTerm=
-47. Application: Soft Skin Challenges Review: https://ieeexplore.ieee.org/document/8858052
-48. Application: More Soft Skin: https://dl.acm.org/doi/10.1145/3084822.3084836
-49. Application: Themal-mechanical system for remote surgeon stimulation: https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=7580b7a6efb7423dad1492644924d023&DOCINDEX=12&ignore_docid=cpx_6e3d60135a650a68fM79ff2061377553&database=8388611&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes
-50. Application: Microdrug delivery: https://ieeexplore.ieee.org/document/7820145
-51. Review: Magnetic Nano swarms: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201903467
-52. Application: Programming magnetic anisotropy in polymeric microactuators: https://www.nature.com/articles/nmat3090
-53. Application: Shape-programmable magnetic soft matter: https://www.pnas.org/content/113/41/E6007
-54. Application: Tiny magnetic actuators: https://www.semanticscholar.org/paper/MagTics%3A-Flexible-and-Thin-Form-Factor-Magnetic-for-Pece-Zarate/d8d2a43da26c3aa2e20bfaf5fc503b7e9737daaa
+49. Application: Soft Skin Challenges Review: https://ieeexplore.ieee.org/document/8858052
+50. Application: More Soft Skin: https://dl.acm.org/doi/10.1145/3084822.3084836
+51. Application: Themal-mechanical system for remote surgeon stimulation: https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=7580b7a6efb7423dad1492644924d023&DOCINDEX=12&ignore_docid=cpx_6e3d60135a650a68fM79ff2061377553&database=8388611&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes
+52. Application: Microdrug delivery: https://ieeexplore.ieee.org/document/7820145
+53. Review: Magnetic Nano swarms: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201903467
+54. Application: Programming magnetic anisotropy in polymeric microactuators: https://www.nature.com/articles/nmat3090
+55. Application: Shape-programmable magnetic soft matter: https://www.pnas.org/content/113/41/E6007
+56. Application: Tiny magnetic actuators: https://www.semanticscholar.org/paper/MagTics%3A-Flexible-and-Thin-Form-Factor-Magnetic-for-Pece-Zarate/d8d2a43da26c3aa2e20bfaf5fc503b7e9737daaa
 
 ## Simulation Tools
 1. ANSYS
