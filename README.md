@@ -78,6 +78,8 @@ The paper source can be found in overleaf through the following links:
 54. Application: Programming magnetic anisotropy in polymeric microactuators: https://www.nature.com/articles/nmat3090
 55. Application: Shape-programmable magnetic soft matter: https://www.pnas.org/content/113/41/E6007
 56. Application: Tiny magnetic actuators: https://www.semanticscholar.org/paper/MagTics%3A-Flexible-and-Thin-Form-Factor-Magnetic-for-Pece-Zarate/d8d2a43da26c3aa2e20bfaf5fc503b7e9737daaa
+57. Application: Temperature Controlled Microgrippers: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7820145
+
 
 ## Simulation Tools
 1. ANSYS
